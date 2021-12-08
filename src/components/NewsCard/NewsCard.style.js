@@ -14,9 +14,12 @@ export default StyleSheet.create({
     title:{
         fontWeight:'bold',
         fontSize:18,
+        color:'black',
     },
     description:{
         marginTop:3,
+        color:'black',
+
     },
     author:{
         fontStyle:'italic',
